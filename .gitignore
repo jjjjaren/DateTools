@@ -20,3 +20,7 @@ DerivedData
 
 #CocoaPods
 Pods
+
+# Other
+.DS_Store
+.swiftpm
